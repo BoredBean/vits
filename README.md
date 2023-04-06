@@ -2,7 +2,7 @@
 (Suggestion) Python == 3.7
 ## Clone this repository
 ```sh
-git clone https://github.com/CjangCjengh/vits.git
+git clone https://github.com/BoredBean/vits.git
 ```
 ## Choose cleaners
 - Fill "text_cleaners" in config.json
